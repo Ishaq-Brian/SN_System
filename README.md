@@ -1,2 +1,3 @@
 # SN_System
-This is the ServiceNow Integration
+This is the ServiceNow Integration.
+Author: BrtianOCharles
